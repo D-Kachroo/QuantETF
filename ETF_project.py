@@ -243,7 +243,7 @@ def show_correlation_heatmap(returns):
 # It includes a sidebar for users to input ETF tickers, displays historical prices, and showcases global economic indicators.
 def main():
     st.set_page_config(page_title="Streamlit Quant Project (ETFs)", layout="wide")
-    st.title("💼 Investment Portfolio Advisor (ETFs) - By: David K.")
+    st.title("💼 Investment Portfolio Advisor (QuantETF) - By: David K.")
 
     # Sidebar configuration: filter by sector and select ETFs/time period.
     with st.sidebar:
