@@ -1,4 +1,4 @@
-# 📊 Full-Stack Quant ETF Investment Portfolio Advisor
+# 📊 Full-Stack QuantETF Investment Portfolio Advisor
 
 **Developer:** David Kachroo (CFM @ University of Waterloo)
 
